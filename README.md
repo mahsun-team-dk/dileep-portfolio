@@ -2,7 +2,7 @@
 
 My personal portfolio website built with HTML, CSS and JavaScript.
 
-🔗 **Live Demo:** https://YOUR-USERNAME.github.io/dileep-portfolio/
+🔗 **Live Demo:** https://github.com/mahsun-team-dk/dileep-portfolio
 
 ## Features
 - Fully responsive (mobile, tablet, desktop)
